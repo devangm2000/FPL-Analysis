@@ -1,0 +1,21 @@
+h1,h2{
+	text-align: center;
+	color: white;
+}
+table, th, td {
+  border: 1px solid white;
+  padding: 15px;
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 20px;
+}
+.center{
+	border: 1px solid white;
+  padding: 15px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+            background-color: #303641;
+}
