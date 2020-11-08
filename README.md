@@ -9,17 +9,8 @@ Uday Agarwal (18BCE0777)
 Github Link:
 
 Instructions:
-<<<<<<< HEAD
 
-Use Jupyter notebook for running the python file(.ipynb)
-This python file contains the visualisations, clustering and prediction parts.
-Change the links in each HTML/CSS file inorder to view the website.
-Once done, to view the website, open the Main.html in Google Chrome.
-=======
 1. Use Jupyter notebook for running the python file(.ipynb)
 2. This python file contains the visualisations, clustering and prediction parts.
 3. Change the links in each HTML/CSS file inorder to view the website.
 4. Once done, to view the website, open the Main.html in Google Chrome.
-
-
->>>>>>> 7af391f763d003360a8fcfeeabefead437f9a94b
